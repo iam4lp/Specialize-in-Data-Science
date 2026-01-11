@@ -68,6 +68,10 @@ Most projects are deployed using:
 Computer Engineering Student  
 Specialized in Data Science & Machine Learning
 
+
+
+🔗 GitHub: https://github.com/iam4lp
+🔗 Hugging Face: https://huggingface.co/iam4lp
 ---
 
 ⭐ If you find this repository useful, feel free to star it!
